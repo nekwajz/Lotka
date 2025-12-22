@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="cs">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Lotka & panda červená – Zmizel sportovní deník</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app">
+    <header class="topbar">
+      <div class="brand" aria-label="Lotka a panda červená">
+        <div class="brand-badge" aria-hidden="true">🦊</div>
+        <div class="brand-text">
+          <h1 class="app-title">Lotka & panda červená</h1>
+          <div class="app-subtitle">Detektivka ve stylu „Poseroutky“ – sport, tanec a Stitch</div>
+        </div>
+      </div>
+
+      <div class="topbar-actions">
+        <button id="back-btn" class="btn btn-secondary" type="button" disabled>← Zpět</button>
+        <button id="restart-btn" class="btn btn-secondary" type="button">Restart</button>
+      </div>
+    </header>
+
+    <main class="card" role="main" aria-live="polite">
+      <h2 id="scene-title" class="scene-title"></h2>
+      <div id="scene-text" class="scene-text"></div>
+      <div id="choices" class="choices" aria-label="Možnosti"></div>
+    </main>
+  </div>
+
+  <!-- RESTART MODAL -->
+  <div id="restart-modal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="restart-title">
+    <div class="modal-backdrop"></div>
+    <div class="modal-panel">
+      <h3 id="restart-title" class="modal-title">Opravdu chceš odejít?</h3>
+      <p class="modal-text">Vrátíš se na začátek příběhu.</p>
+      <div class="modal-actions">
+        <button id="restart-yes" class="btn btn-danger" type="button">Ano, chci odejít</button>
+        <button id="restart-no" class="btn btn-primary" type="button">Ne, chci zůstat</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
