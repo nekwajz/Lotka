@@ -59,12 +59,19 @@ body{
   width: 46px;
   height: 46px;
   border-radius: 14px;
-  display: grid;
-  place-items: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  /* pozadí + rámeček */
   background: linear-gradient(135deg, rgba(217,75,43,.18), rgba(47,125,50,.18));
   border: 1px solid var(--border);
   box-shadow: 0 10px 20px rgba(0,0,0,.08);
-  font-size: 24px;
+
+  /* důležité pro obrázek */
+  overflow: hidden;     /* schová přesah */
+  padding: 6px;         /* aby se ikona hezky vešla */
+  font-size: 0;         /* žádný text/emoji neovlivní layout */
 }
 
 .brand-text{
@@ -247,4 +254,11 @@ body{
   .scene-text{ font-size: 16px; }
   .btn{ font-size: 15px; }
   .topbar{ padding: 8px 6px; }
+}
+
+.brand-badge img{
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: contain;  /* celé zvířátko v čtverečku */
 }
