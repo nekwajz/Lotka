@@ -16,7 +16,8 @@
           "text": "Mrknout na taneční kostýmy",
           "nextId": "scene_2_tanec"
         }
-      ]
+      ],
+      "image": "redpanda.png"
     },
     "scene_2_volejbal": {
       "id": "scene_2_volejbal",
@@ -268,7 +269,7 @@
           "nextId": "scene_9_tanec"
         },
         {
-          "text": "Vrátit se k věšáku",
+          "text": "Zajít k lavičce týmu",
           "nextId": "scene_9_volejbal"
         }
       ]
@@ -383,7 +384,7 @@
       "text": "Lotka jde ke skříňce se sportovním náčiním a přistihne Rózu, jak se staví na zadní a dělá, že je vysoká rozhodčí. Lotka jí řekne, ať to nehraje na strašidlo, ale Róza jen pózuje a vypadá spíš vtipně než děsivě. Na poličce leží deníková gumička a na ní přilepený lístek: půjčeno do sálu. Lotka už má skoro jistotu, že deník si někdo vypůjčil kvůli tanci. Teď jen potřebuje jméno, ne jen šipky. Víš, že když se panda červená chce tvářit větší, postaví se na zadní nohy?",
       "choices": [
         {
-          "text": "Hledat značku háčku IV",
+          "text": "Jít ke schránce vzkazů",
           "nextId": "scene_13_volejbal"
         },
         {
@@ -400,7 +401,7 @@
       "text": "V tanečním sále je na tabuli napsáno: we don't forget, she doesn't forget, a pod tím smajlík. Lotka si říká, že někdo si z angličtiny dělá stopy, což je zároveň chytré i trochu drzé. Róza ťukne tlapkou na doesn't a pak na prázdné místo, kde by měl být deník. Lotka najde na zemi malý papírek s podpisem Bára, tentokrát úplný. Takže viník možná není zlý, jen má zvláštní smysl pro humor. Věděla jsi, že v present simple se pro zápor používá don't a pro 3. osobu doesn't?",
       "choices": [
         {
-          "text": "Prověřit číslo IV na papírku",
+          "text": "Jít za tabuli pádů",
           "nextId": "scene_13_tanec"
         },
         {
@@ -451,11 +452,11 @@
       "text": "Lotka a Róza se znovu potkají u lavičky a mají konečně jméno: Bára. Lotka si v hlavě projede otázky jako detektiv: kdo, kde, kdy a proč. Róza udělá dvě taneční otočky, jako by říkala: hlavně to neber moc vážně. Lotka si připomene, že v angličtině otázky často začínají Do nebo Does, a zní to jako buben. Teď si vybere, kudy půjde Báru najít. Víš, že otázky v present simple často začínají Do nebo Does?",
       "choices": [
         {
-          "text": "Vyrazit k háčku IV",
+          "text": "Vyrazit k síti a lavičce",
           "nextId": "scene_14_volejbal"
         },
         {
-          "text": "Vyrazit k šatní skříňce",
+          "text": "Vyrazit do taneční šatny",
           "nextId": "scene_14_tanec"
         }
       ]
@@ -468,11 +469,11 @@
       "text": "Lotka čeká u volejbalové sítě a dělá, že kontroluje míče, ale ve skutečnosti kouká, kdo jde kolem. Róza si sedne a omotá si ocas kolem břicha, jako by byla nejroztomilejší šála světa. Přijde Bára a tváří se úplně normálně, což je podezřelé, protože normální lidi deníky neodnášejí. Lotka si všimne, že Báře z kapsy kouká roh sešitku s kresbou Stitche. Róza Lotce nenápadně kývne, jako že teď. Věděla jsi, že huňatý pruhovaný ocas pandy červené slouží jako deka i pro rovnováhu při šplhání?",
       "choices": [
         {
-          "text": "Prohledat červenou bundu",
+          "text": "Oslovit Báru v klidu",
           "nextId": "scene_15_volejbal"
         },
         {
-          "text": "Jít za plakátem češtiny",
+          "text": "Schovat se a poslouchat",
           "nextId": "scene_15_tanec"
         }
       ]
@@ -502,11 +503,11 @@
       "text": "Lotka se k Báře přiblíží a zeptá se, jestli náhodou neviděla sešit s černými deskami. Bára nejdřív řekne, že ne, a pak se jí ve tváři objeví výraz ups. Róza do toho vloží detektivní pohled a udělá tři taneční kroky, aby to nebylo trapné. Lotka si všimne, že na skříňkách jsou zámky a všechny klíče mají svoje místo. V duchu si řekne, že bezpečné věci jsou fajn, ale nejvíc je stejně důležitá důvěra. Víš, že Česko bývá často hodnocené jako jedna z bezpečnějších zemí díky nízké kriminalitě?",
       "choices": [
         {
-          "text": "Mrknout na loutkový plakát",
+          "text": "Jít do šatny potichu",
           "nextId": "scene_16_volejbal"
         },
         {
-          "text": "Jít k římským značkám",
+          "text": "Promyslet, co říct",
           "nextId": "scene_16_tanec"
         }
       ]
@@ -519,11 +520,11 @@
       "text": "Lotka si sedne na zem a dělá, že si váže tkaničku, aby mohla poslouchat, co Bára říká kamarádkám. Bára se chvástá, že má super deník plný trapasů, a Lotka má chuť zalézt do zrcadla. Róza se však jen culí, jako by říkala: aspoň jsi vtipná, to je výhra. Kousek dál visí plakát se sportovkyní a Lotku napadne, že Češi umí být dobří v různých sportech. Lotka se rozhodne, že si deník vezme zpátky po dobrém a v duchu si říká: klid, Příběh poseroutky by z toho udělal komiks. Věděla jsi, že české tenistky mívají velké úspěchy na světových turnajích?",
       "choices": [
         {
-          "text": "Projít značky X a V",
+          "text": "Srovnat si větu v hlavě",
           "nextId": "scene_16_tanec"
         },
         {
-          "text": "Zkontrolovat mašli u háčku",
+          "text": "Nahlédnout do šatny u lavice",
           "nextId": "scene_16_volejbal"
         }
       ]
@@ -567,7 +568,7 @@
       "level": 17,
       "type": "scene",
       "title": "Nejsem zloděj",
-      "text": "Lotka najde na deníku lístek s anglickým zápor em: I am not a thief. To ji skoro rozesměje, protože to je přesně typ obrany, co si člověk napíše, když se cítí trošku vinný. Róza si k lístku přičichne a pak ho jemně odstrčí, jako by říkala: dobrý pokus. Lotka otevře deník a vidí, že několik stránek je založených, ale nic není zničené. Takže to spíš vypadá na půjčení, ne na krádež. Víš, že zápor slovesa to be může být třeba I am not nebo You are not?",
+      "text": "Lotka najde na deníku lístek s anglickým záporem: I am not a thief. To ji skoro rozesměje, protože to je přesně typ obrany, co si člověk napíše, když se cítí trošku vinný. Róza si k lístku přičichne a pak ho jemně odstrčí, jako by říkala: dobrý pokus. Lotka otevře deník a vidí, že několik stránek je založených, ale nic není zničené. Takže to spíš vypadá na půjčení, ne na krádež. Víš, že zápor slovesa to be může být třeba I am not nebo You are not?",
       "choices": [
         {
           "text": "Prohlédnout pohlednici z lázní",
@@ -591,7 +592,7 @@
           "nextId": "scene_18_tanec"
         },
         {
-          "text": "Zamířit k tabuli devítek",
+          "text": "Zamířit k nástěnce",
           "nextId": "scene_18_volejbal"
         }
       ]
@@ -686,8 +687,13 @@
       "level": 20,
       "type": "end",
       "title": "Deník zachráněn",
-      "text": "Lotka konečně strčí deník zpátky do batohu, jako by to byl poklad. Bára se omluví a přidá do deníku samolepku Stitche s nápisem friend. Lotka otevře poslední stránku a přečte nahlas krátkou větu, která je překvapivě milá. Róza udělá vítězný taneček a pak se stočí do klubíčka, protože detektivky potřebují pauzu. Lotka si v hlavě napíše: dnešní trapas se změnil na dnešní příběh. Věděla jsi, že bílé skvrny na tváři pandí mámy mohou mláďatům pomáhat ji snadno rozpoznat v lese?",
-      "choices": []
+      "text": "Lotka konečně strčí deník zpátky do batohu, jako by to byl poklad. Bára se omluví a přidá do deníku samolepku Stitche s nápisem friend. Lotka otevře poslední stránku a přečte nahlas krátkou větu, která je překvapivě milá. Róza udělá vítězný taneček a pak se stočí do klubíčka, protože detektivky potřebují pauzu. Lotka si v hlavě napíše: dnešní trapas se změnil na dnešní příběh. Věděla jsi, že bílé skvrny na tváři pandí mámy pomáhají mláďatům maminku snadno poznat?",
+      "choices": [],
+      "image": "redpanda.png"
     }
+  },
+  "meta": {
+    "brandImage": "redpanda.png",
+    "defaultSceneImage": "redpanda.png"
   }
 }
