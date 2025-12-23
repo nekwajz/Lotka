@@ -5,8 +5,8 @@
       "id": "scene_1_start",
       "level": 1,
       "type": "start",
-      "title": "Zmizel sportovní deník!",
-      "text": "Lotka otevře batoh a její sportovní deník nikde. „To je průšvih… měla jsem tam volejbalové trapasy i taneční nápady,“ vydechne. Z kapuce vykoukne panda červená jménem Róza a nasadí si „detektivní“ gumičku jako čelenku. Na zipu se houpe Stitch a vypadá, že se směje úplně všem. Róza zašeptá: „Neboj, vyšetříme to jako profíci a s jednou taneční otočkou navíc.“ Věděla jsi, že souhláska „ř“ je tak zvláštní, že se skoro nikde na světě nevyslovuje stejně jako v češtině?",
+      "title": "Trapas dne: Deník pryč",
+      "text": "Lotka otevře batoh a zjistí, že sportovní deník je pryč. V tom deníku má volejbalové trapasy, taneční nápady a nejvtipnější kresby Stitche. Panda červená Róza se vyhrabe z mikiny a nasadí si čelenku, jako by byla detektivka. Lotka si v hlavě napíše velkým písmem: dnešní trapas číslo jedna, jako v Příběhu poseroutky. Róza navrhne, že půjdou po stopách buď přes volejbal, nebo přes tanec. Věděla jsi, že zvuk ř patří mezi nejtěžší na světě a skoro nikde se nevyslovuje tak jako v češtině?",
       "choices": [
         {
           "text": "Prozkoumat volejbalovou tašku",
@@ -22,8 +22,8 @@
       "id": "scene_2_volejbal",
       "level": 2,
       "type": "scene",
-      "title": "Šatna a Stitchův zip",
-      "text": "Lotka si vybaví šatnu a představí si, jak včera házela věci do tašky jako tornado. Róza strčí čumáček do volejbalové tašky a vytáhne potítko, jako by to byl důkaz. Stitch na zipu udělá „cvak“ a Róza se tváří, že právě zachytila tajný signál. Na dně tašky leží papírek s nakresleným míčem a šipkou k lavičce. Lotka se zasměje: „Kdybych měla deník, napsala bych: podezřelý míč míří na lavičku.“ Věděla jsi, že panda červená byla popsána už v roce 1825, tedy dřív než panda velká?",
+      "title": "Taška plná ponožek",
+      "text": "Lotka vysype volejbalovou tašku na zem a vypadne z ní ponožka, tejp a sušenka, co už má za sebou těžký život. Deník nikde, ale na dně je nalepená samolepka Stitche, jako by mávala. Róza očichá zip a udělá výraz, jako když někdo tajně žvýká bambus. Lotka si vybaví, že poslední stránku psala v šatně po tréninku. Takže další krok je jasný: skříňka a hromada věcí, co se tváří nevinně. Věděla jsi, že pandu červenou lidé popsali už v roce 1825 a není to medvěd, ale člen vlastní rodiny Ailuridae?",
       "choices": [
         {
           "text": "Projít šatní skříňku",
@@ -39,8 +39,8 @@
       "id": "scene_2_tanec",
       "level": 2,
       "type": "scene",
-      "title": "Třpytka v taneční tašce",
-      "text": "Lotka otevře taneční tašku a všude je třpytka, jako by tam vybuchla víla konfeta. Róza se protočí na místě a udělá malý taneční úklon, i když nikdo netleská. Mezi stužkami je vytržený růžek stránky s kresbou Stitchovy hlavy. Na zadní straně je napsané jediné slovo: „got“ a maličký obrázek pera. Lotka si povzdechne: „Tohle je moje písmo… takže můj deník byl určitě nablízku!“ Víš, že anglicky „have got“ znamená „mít“, třeba „I have got a pen“ = „Mám pero“?",
+      "title": "Třpytky všude",
+      "text": "Taneční taška je jako třpytkový vesmír: když ji otevřeš, třpytky se rozhodnou cestovat úplně všude. Lotka najde stužku, čelenku a papírek s angličtinou, co si kdysi opsala. Stitch na klíčence se zachytí o zip a vypadá, že právě hraje hlavní roli v dramatu. Róza udělá dva malé taneční kroky, aby ukázala, že stopy se hledají i do rytmu. Lotka si řekne, že jestli deník někdo vzal, mohl začít u zrcadel v sále. Víš, že anglické where znamená kde a často stojí na začátku otázky?",
       "choices": [
         {
           "text": "Prohrabat krabici s třpytkami",
@@ -56,8 +56,8 @@
       "id": "scene_3_volejbal",
       "level": 3,
       "type": "scene",
-      "title": "Píšťalka a dvě nuly",
-      "text": "Lotka s Rózou dorazí ve vzpomínce do tělocvičny a slyší, jak trenérka píská na píšťalku. Róza ztuhne a pak zasalutuje, jako by píšťalka byla královna důkazů. U tabule leží lístek: „10, 100, 1000“ a vedle nakreslený malý obdélník hřiště. Lotka si říká, že někdo schválně nechal čísla na očích, aby to působilo chytře. Stitch se na klíčence pohoupá a jako by říkal: „Já mám radši komiksy než nuly!“ Věděla jsi, že při násobení 10 nebo 100 často stačí jen připsat na konec nuly, třeba 12×100=1200?",
+      "title": "Skříňka zkázy",
+      "text": "V šatně Lotka otevře skříňku a vyvalí se na ni dres, chrániče a vůně sportu, kterou by do deníku radši nikdy nelepila. Deník pořád nikde, zato na poličce leží lístek s kresbou hradu a šipkou k lavičce. Róza si lístek vezme do tlapek a tváří se, že je to super tajný spis. Lotka si v duchu poznamená: někdo tu sbírá nálepky a stopy. Tak jdou k lavičce, kde sedí tým a dělá, že nic neví. Věděla jsi, že v Česku je víc než 2000 hradů a zámků?",
       "choices": [
         {
           "text": "Ověřit píšťalku trenérky",
@@ -73,8 +73,8 @@
       "id": "scene_3_tanec",
       "level": 3,
       "type": "scene",
-      "title": "Zrcadlo a stopa hlavou dolů",
-      "text": "V tanečním sále Lotka uvidí na zrcadle otisk prstu a malou šipku nakreslenou fixem. Róza vyskočí na lavičku a pak z ní slézá hlavou napřed, aby ukázala, že je profík. Lotka se směje: „Takhle slézám jenom z postele, když zaspím.“ Na zemi leží papírek s rytmem „1-2-3-4“ a malé kolečko, jako od kroužku. Róza ho očichá a řekne: „Tohle voní… jako tajemství a trošku jako bambus.“ Věděla jsi, že panda červená umí slézat ze stromu hlavou napřed díky extra ohebným kotníkům?",
+      "title": "Stopa v zrcadle",
+      "text": "V tanečním sále je velké zrcadlo a Lotka v něm vidí svůj výraz detektivky, co právě ztratila deník i nervy. Na zemi je tenká čára z třpytek, která vede k oknu a pak k věšáku s kostýmy. Róza vyskočí na lavičku a vypadá jako šplhací komando. Lotka se zasměje, protože panda červená nepotřebuje strom, stačí jí židle. U věšáku visí cizí mikina a z kapsy kouká ohnutý roh papíru. Věděla jsi, že panda červená umí slézat ze stromu hlavou napřed díky ohebným kotníkům?",
       "choices": [
         {
           "text": "Hledat šipku u zrcadla",
@@ -90,8 +90,8 @@
       "id": "scene_4_volejbal",
       "level": 4,
       "type": "scene",
-      "title": "Samolepka hradu na dresu",
-      "text": "Lotka najde u lavičky dres a na něm samolepku hradu, přesně jako na obalu jejího deníku. Róza se tváří slavnostně a prohlásí: „Hradní stopa! To zní vážně.“ Stitch se houpe a jako by chtěl samolepku ukrást pro sebe, ale jen se zamotá. Za samolepkou je maličká zelená nit, jakoby z provázku. Lotka si šeptne: „Takže deník byl u lavičky… nebo u někoho, kdo má rád hrady.“ Věděla jsi, že v České republice je přes 2 000 hradů a zámků?",
+      "title": "Trenérčin blok",
+      "text": "U lavičky je trenérčin blok a na něm šipky, kolečka a poznámky, které vypadají jako tajný plán na záchranu světa. Lotka si přečte jednu anglickou větu a hned se cítí o dva body chytřejší. Róza kouká na blok tak soustředěně, že by jí někdo mohl dát píšťalku a věřili by mu. V rohu je poznámka: půjčeno na chvilku, vrátím po rozcvičce. Lotka si říká, kdo by půjčoval deník jako míč. Víš, že u slovesa to be se v angličtině otázka často udělá jen prohozením slov, třeba She is happy a pak Is she happy?",
       "choices": [
         {
           "text": "Zvednout samolepku hradu",
@@ -107,8 +107,8 @@
       "id": "scene_4_tanec",
       "level": 4,
       "type": "scene",
-      "title": "Rozcvička s jazykolamem",
-      "text": "V tanečním koutku někdo napsal křídou na podlahu podivnou větu bez samohlásek. Lotka to čte nahlas a uprostřed se rozesměje, protože to zní jako tajný kód mimozemšťanů. Róza se snaží to zopakovat, ale vyjde z toho jen roztomilé „řrr…“ a pak taneční poskok. Vedle věty je nakreslený malý míč a šipka směrem k šatně. Lotka kývne: „Dobře, jazykolam nás posílá zpátky ke sportu.“ Věděla jsi, že v češtině existuje věta bez samohlásek: „Strč prst skrz krk“?",
+      "title": "Krabice kostýmů",
+      "text": "Lotka otevře krabici s kostýmy a najde stužky, čelenky a jednu ponožku bez páru, takže je to jednonožkový hrdina. Na víku krabice je samolepka loutky, jako z divadla. Róza se malinko ukloní, protože panda červená má styl i bez tanečních bot. Pod kostýmem je papír s nakresleným Stitchem a bublinou prosím vrať. Lotka si v duchu říká, že někdo si z deníku udělal rekvizitu. Věděla jsi, že loutkové divadlo má u nás dlouhou tradici už od 18. století?",
       "choices": [
         {
           "text": "Přečíst křídový vzkaz",
@@ -124,8 +124,8 @@
       "id": "scene_5_volejbal",
       "level": 5,
       "type": "scene",
-      "title": "Papírek „Is she happy?“",
-      "text": "Pod sítí Lotka najde papírek s větou „She is happy.“ a hned pod tím „Is she happy?“ Róza na to mrkne: „To je výslech v angličtině, to se mi líbí.“ Lotka si uvědomí, že přesně takové věty si do deníku občas zapisuje, když chce být chytrá. Na okraji papírku je malý obrázek Stitchovy uši a šipka k kostýmům. Róza udělá taneční otočku a řekne: „Stopy jsou dneska fakt umělecké.“ Víš, že v angličtině se otázka se slovesem „to be“ často udělá otočením slov, třeba „She is happy“ → „Is she happy?“?",
+      "title": "Vytržená stránka",
+      "text": "Lotka zvedne blok a zpod něj vypadne zmačkaný papírek, jako by to byla důkazní svačina. Je na něm nakreslený bambus a maličká panda červená s palcem nahoru. Róza se zazubí, protože to vypadá jako její selfie bez mobilu. Lotka pozná, že papírek je z jejího deníku, protože má na okraji její klikyhák. Takže někdo deník opravdu měl v ruce a ještě si z něj vytrhl stránku. Víš, že panda červená má v zápěstí kost, která funguje jako falešný palec a pomáhá jí držet bambus?",
       "choices": [
         {
           "text": "Sejmout lístek od sítě",
@@ -141,8 +141,8 @@
       "id": "scene_5_tanec",
       "level": 5,
       "type": "scene",
-      "title": "Kostýmová krabice a bambus",
-      "text": "Lotka otevře krabici s kostýmy a z ní vykoukne zelený bambusový vějířek. Róza ho vezme do tlapek a drží ho tak šikovně, jako by měla palec navíc. Stitch se tváří, že taky chce vějíř, ale skončí jen s nití na nose. V rohu krabice je schovaný kousek stránky s nakresleným volejbalovým míčem. Lotka zvedne obočí: „Takže deník skákal mezi tancem a sportem stejně jako já.“ Věděla jsi, že panda červená má v zápěstí kost, která funguje jako „falešný palec“ na držení bambusu?",
+      "title": "Vzkaz u zrcadla",
+      "text": "U zrcadla je lístek s nápisem nejsme tu a pod tím šipka k šatnám. Lotka si připadá jako v detektivce, kde pachatel umí psát vzkazy, ale neumí vracet věci. Róza ukáže na lístek tlapkou a pak použije nos, aby to vypadalo odborně. Lotka si přečte další anglickou poznámku a zní to trochu jako nejsi, nejsme. To ji navede na myšlenku, že v tom má prsty někdo z týmu, kdo rád píše anglicky. Věděla jsi, že zápor slovesa to be se často zkracuje na isn't nebo aren't?",
       "choices": [
         {
           "text": "Prohlédnout bambusový vějíř",
@@ -158,8 +158,8 @@
       "id": "scene_6_volejbal",
       "level": 6,
       "type": "scene",
-      "title": "Koš s míči a trik s pětkou",
-      "text": "U koše s míči leží malá kartička s číslem 18 a velkou pětkou vedle. Róza se tváří vědecky a šeptá: „To je matematická stopa, bacha.“ Lotka si vzpomene, že do deníku píše i rychlé triky, aby se pochlubila sama sobě. Vedle kartičky je přivázaná tenká stužka, která vypadá jako pozvánka na poradu. Róza pokyne: „Buď pokračujeme ve sportovní stopě, nebo dáme velkou detektivní poradu.“ Věděla jsi, že násobení pěti jde zrychlit tak, že číslo vynásobíš deseti a pak vydělíš dvěma?",
+      "title": "Odznak z výletu",
+      "text": "Lotka zahlédne na tašce odznak s Pražským hradem a vzpomene si na výlet, kde se všichni tvářili důležitě. V deníku měla stránku o tom, jak by se na Pražském hradě hrál volejbal, kdyby tam byla síť. Róza si představí smeč před katedrálou a udělá vítězný taneční krok. Když Lotka zkontroluje kapsy tašky, najde útržek se slovem BÁ. To je skoro jako jméno, jen ještě chybí zbytek. Věděla jsi, že Pražský hrad je považovaný za největší hradní komplex na světě?",
       "choices": [
         {
           "text": "Podívat se do trenérčina notesu",
@@ -175,8 +175,8 @@
       "id": "scene_6_tanec",
       "level": 6,
       "type": "scene",
-      "title": "Playlist a pražské hodiny",
-      "text": "V tanečním sešitu Lotka najde nakreslené hodiny s dvěma ručičkami a malý nápis „Praha“. Róza se zatváří, že rozumí historickým stopám, a udělá důležitý kýv. Na další stránce je seznam písniček a u jedné poznámka „začni pomalu, pak bum!“ Stitch na přívěsku udělá „klik“ a Lotka má pocit, že to zní jako začátek tajného plánu. Róza navrhne: „Buď prolistujeme sešit dál, nebo svoláme poradu, ať jsme nejchytřejší duo.“ Věděla jsi, že Pražský orloj funguje už od roku 1410?",
+      "title": "Tlapky na špičkách",
+      "text": "V taneční šatně Lotka najde na lavici huňatý šál a vedle něj drobné otisky tlapek, jako by tu někdo běhal po špičkách. Róza si přitiskne tlapky k zemi a tváří se, že je to profesionální stopování. Lotka si všimne, že Róze nekloužou tlapky ani na hladké podlaze, což je trochu nespravedlivé vůči lidem v ponožkách. Pod lavicí je další kousek jejího deníku, tentokrát se seznamem tanečních kroků. Někdo si ty kroky opsal a pak to schoval mezi kostýmy. Věděla jsi, že pandy červené mají srst i na chodidlech tlapek, takže jim to pomáhá neklouzat na větvích?",
       "choices": [
         {
           "text": "Prolistovat taneční sešit",
@@ -192,8 +192,8 @@
       "id": "scene_7_volejbal",
       "level": 7,
       "type": "scene",
-      "title": "Trenérčin notes a huňaté tlapky",
-      "text": "Lotka najde trenérčin notes a na okraji je nalepená zelená stužka jako záložka. Róza si ji přitiskne k tlapce a chvilku vypadá, že ji zahřívá jako poklad. „Tohle se chytalo do ruky, ne do kapsy,“ řekne Lotka a Róza se nevinně usměje. Na poslední stránce notesu je napsáno: „DENÍK? zkontroluj háček u dveří.“ Stitch se zatřese radostí, jako by háček byl jeho oblíbené dobrodružství. Věděla jsi, že panda červená má srst i na chodidlech, takže jí tlapky fungují trochu jako sněžnice?",
+      "title": "Rozpis s poznámkou",
+      "text": "V tělocvičně visí na nástěnce fotka Pražského orloje a Lotka si říká, že i hodiny můžou mít detektivní výraz. Pod fotkou je rozpis tréninků a někdo do něj připsal: deník použít na choreografii. Róza se začne culit, protože choreografie zní jako tanec a to je její jazyk. Lotka si poznamená do hlavy: deník není ztracený, deník cestuje. Teď už jen zjistit, kdo si ho půjčil a proč o tom mlčí. Věděla jsi, že Pražský orloj funguje už od roku 1410 a patří mezi nejstarší orloje, které pořád běží?",
       "choices": [
         {
           "text": "Jít po stopě k háčku",
@@ -209,8 +209,8 @@
       "id": "scene_7_tanec",
       "level": 7,
       "type": "scene",
-      "title": "Cedule s isn't a taneční grimasy",
-      "text": "Na stěně sálu visí cedule s angličtinou a někdo tam dopsal velké „isn’t“ a „aren’t“. Lotka udělá přísnou detektivní grimasu a Róza ji okamžitě napodobí. Vedle cedule je přilepený lístek: „Deník není tady…“ a šipka k tělocvičně. Stitch vypadá uraženě, jako by mu někdo řekl, že není roztomilý. Róza zašeptá: „Takže deník se schoval a ještě nám to napsal. To je drzoun.“ Víš, že v angličtině se zápor u „to be“ často zkracuje jako „isn’t“ a „aren’t“?",
+      "title": "Plán v angličtině",
+      "text": "Lotka najde v taneční tašce cizí lístek s větou I have got a plan a pod tím nakreslené dva kroky. Róza na to kývne, protože plán zní jako něco, co by schválila i panda s čelenkou. Stitch se houpe na zipu a vypadá, že schvaluje každý nápad, hlavně když je trochu blbý. Lotka pozná svůj rukopis v rohu papírku, takže to někdo psal přímo do jejího deníku. A teď ten někdo odešel i s deníkem. Víš, že have got znamená mít, třeba I have got a plan znamená mám plán?",
       "choices": [
         {
           "text": "Prověřit ceduli s isn't",
@@ -226,8 +226,8 @@
       "id": "scene_7_spojeni",
       "level": 7,
       "type": "scene",
-      "title": "Porada dvou stop",
-      "text": "Lotka rozloží na lavici stužky, papírky a kresbičky a Róza si sedne vedle jako šéf. Stitch se tváří, že je třetí člen týmu, protože visí přímo nad důkazy. Lotka řekne: „Volejbal říká háček, tanec říká tělocvična.“ Róza přikývne: „Tak jdeme tam, kde se to nejvíc cinká a nejvíc směje.“ Lotka si představí, jak by tu poradu popsala do deníku, a skoro ji to uklidní. Věděla jsi, že součet 1+2+3+4+5+6+7+8+9+10 je 55, když čísla spáruješ do dvojic 11?",
+      "title": "Lavičkové puzzle",
+      "text": "Lotka a Róza si sednou na lavičku mezi tělocvičnou a sálem a rozloží útržky jako puzzle. Jeden je o volejbalu, druhý o tanci a třetí je kresba Stitche s obří hlavou. Lotka si představí, jak by to vypadalo jako komiks: já panikařím, Róza pózuje, Stitch dělá grimasy. Útržky mají společné jedno slovo: robot, protože Lotka tak říká trenérčině píšťalce. Róza navrhne, že teď půjdou buď po sportovní stopě, nebo po taneční. Věděla jsi, že české slovo robot se rozšířilo do spousty jazyků po celém světě?",
       "choices": [
         {
           "text": "Zaměřit se na sportovní vzkaz",
@@ -243,8 +243,8 @@
       "id": "scene_8_volejbal",
       "level": 8,
       "type": "scene",
-      "title": "Deníková obálka a robotí kresba",
-      "text": "U dveří tělocvičny Lotka najde kousek obálky se samolepkou robota a volejbalovým míčem. Róza na robota kývne: „To je jasný podezřelý… nebo kamarád.“ Lotka se zasměje: „Robot je z mojí hlavy, já si do deníku kreslím blbiny.“ Kousek obálky vede jako puzzle k věšáku, kde visí různé bundy. Stitch se zamotá do šňůrky a vypadá, že našel stopu omylem. Věděla jsi, že slovo „robot“ pochází z češtiny a používá se v mnoha jazycích světa?",
+      "title": "Mapka hřiště",
+      "text": "V koutě tělocvičny je plakát Českého Krumlova a Lotku napadne, že její deník cestuje jako turista. Na lavičce někdo nechal fixu a vedle ní leží stránka z deníku s mapkou hřiště. Róza tu stránku otočí a na zadní straně je napsáno: přines to po tanci. Lotka si řekne, že to už zní jako domluva, ne jako nehoda. V hlavě si dá trapas číslo dva a kdyby to byl Příběh poseroutky, nakreslila by tam obří smajlík. Víš, že Český Krumlov je na seznamu UNESCO a vypadá jako pohádkové město?",
       "choices": [
         {
           "text": "Posbírat obálkové puzzle",
@@ -260,8 +260,8 @@
       "id": "scene_8_tanec",
       "level": 8,
       "type": "scene",
-      "title": "Ochutnávání vzduchu",
-      "text": "Róza se najednou zastaví, vyplázne špičku jazyka a dělá, že ochutnává vzduch jako kuchař. Lotka se rozesměje: „Tak tohle je nový taneční styl: detektivní degustace.“ Róza ukáže tlapkou směrem k šatně a udělá zvuk, který zní jako písknutí a smích dohromady. Na zemi leží drobný papírek s nápisem „friend“ a malým srdíčkem. Lotka si řekne, že ten deník možná nechal stopu schválně, aby ho našly. Věděla jsi, že pandy červené umí „ochutnávat“ pachy ve vzduchu spodní stranou jazyka?",
+      "title": "Záložka na parapetu",
+      "text": "V tanečním sále Lotka ucítí vůni tyčinek a Róza zpozorní, jako by jí někdo zapnul radar. Róza natáhne jazyk a udělá výraz, co znamená ochutnávám vzduch. Lotka se tomu směje, protože to vypadá jako testování neviditelné zmrzliny. Na parapetu leží její deníková záložka a na ní šipka k volejbalové šatně. Takže stopa je chytrá a posílá je sem a tam. Víš, že panda červená používá spodní stranu jazyka k ochutnávání pachů ve vzduchu?",
       "choices": [
         {
           "text": "Nechat Rózu očichat šipku",
@@ -277,8 +277,8 @@
       "id": "scene_9_volejbal",
       "level": 9,
       "type": "scene",
-      "title": "Kamarádka a tajný podpis",
-      "text": "Lotka potká spoluhráčku, která ukáže na šňůrku: „To jsem viděla u věšáku!“ Róza se ukloní a představí se jako „detektivní panda, co umí i taneček“. Kamarádka se zasměje a řekne, že deník někdo nesl pod paží jako poklad. Lotka si všimne, že na papírku je napsané „friend“ a připomene si svůj anglický zápisník. Stitch vypadá hrdě, jako by to slovo vymyslel on. Víš, že anglicky je kamarád nebo kamarádka „friend“?",
+      "title": "Kapitánka mlčí",
+      "text": "Lotka potká kapitánku týmu, která se tváří, že ví všechno, ale zatím nic neřekne. Róza se postaví vedle ní a udělá detektivní pohled číslo sedm. Kapitánka nakonec přizná, že někdo řekl: mám ten deník. Lotka si v duchu přeloží: Have you got it, a hned se cítí jako v anglickém filmu. Kapitánka ukáže směrem k tanečnímu sálu a začne se smát. Věděla jsi, že otázka s have got může znít Have you got a friend nebo Have you got it?",
       "choices": [
         {
           "text": "Zeptat se spoluhráčky",
@@ -294,8 +294,8 @@
       "id": "scene_9_tanec",
       "level": 9,
       "type": "scene",
-      "title": "Pražský hrad na nástěnce",
-      "text": "Na chodbě visí nástěnka s fotkou Pražského hradu a pod tím spousta šipek jako mapa. Lotka si říká, že její deník by takovou mapu miloval, protože mapy vypadají chytrým dojmem. Róza ukáže na jednu šipku: vede k hudebnímu pultu v sále. Stitch se zhoupe a málem spadne, ale nakonec to vypadá jako taneční trik. Lotka se usměje: „Dobře, stopa nás vede k hudbě, takže jdeme po rytmu.“ Věděla jsi, že Pražský hrad patří k největším hradním komplexům na světě?",
+      "title": "Skleněný odraz",
+      "text": "U zrcadel visí ozdoba z barevného skla a Lotka si na ni skoro sáhne, ale Róza ji zadrží, aby nebyl další trapas. V tom skle se všechno odráží a Lotka najde na zemi papírek, který se tváří jako nic. Je to seznam písniček a u jedné je poznámka: z deníku. Lotka si říká, že její deník se stal oficiálním tanečním plánovačem. Stitch na klíčence se zhoupne, jako by říkal: jo, tohle je sláva. Věděla jsi, že český křišťál a bohemia sklo jsou známé po celém světě?",
       "choices": [
         {
           "text": "Projít mapu na nástěnce",
@@ -311,8 +311,8 @@
       "id": "scene_10_volejbal",
       "level": 10,
       "type": "scene",
-      "title": "Zvuk „haf-kvák“ u míčů",
-      "text": "U míčů je ticho, dokud Róza nevydá zvuk, který zní jako „haf-kvák“ a hned se rozchechtá. Lotka jí odpoví tanečním poskokem, protože na směšné zvuky se neodpovídá normálně. Na lavičce je fixem napsáno „1089“ a vedle malý obrázek noty. Stitch se tváří, že nota je jeho další ucho. Lotka zamumlá: „Takže deník se schoval někde, kde se počítá i tancuje.“ Věděla jsi, že panda červená umí vydávat zvuky, které zní jako pískání, štěbetání nebo dokonce „haf-kvák“?",
+      "title": "Rózin zvukový útok",
+      "text": "Při rozcvičce Róza začne vydávat zvuky, které zní jako směs pískání a kachny, a všichni se otáčí. Lotka se chechtá, protože to je přesně ten typ blbiny, co by psala do deníku. Jeden spoluhráč řekne, že někdo si deník půjčil, aby z něj přečetl trapas nahlas. Lotka se zardí, ale Róza se tváří pyšně, jako by šlo o literární cenu. Na zemi leží papírek s adresou: klubovna u nástěnky. Věděla jsi, že panda červená umí vydávat zvuky, které zní jako haf-kvák, pískání nebo ptačí štěbetání?",
       "choices": [
         {
           "text": "Pročíst nápis u lavičky",
@@ -328,8 +328,8 @@
       "id": "scene_10_tanec",
       "level": 10,
       "type": "scene",
-      "title": "Číslo 1089 a taneční šifra",
-      "text": "Lotka najde v tanečním sešitě stránku s velkým číslem 1089 a šipkou k věšáku. Róza na číslo kouká, jako by to bylo jméno podezřelého. Lotka se směje: „Tohle jsem si napsala, protože to vypadá jako kouzlo.“ Stitch se houpe a jako by říkal: „Kouzla beru, hlavně když jsou vtipná.“ Róza navrhne, že se půjde podívat, jestli u věšáku něco opravdu „cinká“. Věděla jsi, že existuje trik s číslem 1089: po otočení a odečtení čísel často vyjde nakonec vždy 1089?",
+      "title": "Jazykolam v sešitu",
+      "text": "Lotka najde v tanečním sešitě napsaný jazykolam a vedle něj obří smajlík. Zní to jako věta bez samohlásek a Lotka si říká, že to je humor pro lidi, co mají rádi chaos. Róza se pokusí to přečíst a skončí u toho, že dělá jen roztomilé zvuky. Pod jazykolamem je šipka k volejbalové šatně a poznámka: tam jsem to nechala. Lotka si v duchu přikreslí obrázek: já běžím, Róza kluše, Stitch se třese. Víš, že v češtině jde říct věta bez samohlásek, třeba Strč prst skrz krk?",
       "choices": [
         {
           "text": "Ověřit číslo v sešitě",
@@ -345,8 +345,8 @@
       "id": "scene_11_volejbal",
       "level": 11,
       "type": "scene",
-      "title": "Pády v deníku",
-      "text": "Lotka najde u stolu vytrženou stránku a na ní napsáno: „1. pád: kdo, co – deník!“ Róza se tváří učeně a přikývne, i když to spíš vypadá, že kývá do rytmu. Na spodku stránky je nakreslený Stitch, jak drží lupu a dělá „vážný obličej“. Lotka si říká, že její deník je nejen poseroutka, ale i šprt, a to je trochu roztomilé. Róza ukáže na dveře do sálu: „Jdeme dál, pád nepád, stopa pokračuje.“ Věděla jsi, že čeština má sedm pádů, třeba 1. pád „kdo, co“ a 4. pád „koho, co“?",
+      "title": "Pravidla týmu",
+      "text": "V klubovně visí pravidla týmu a někdo tam přilepil papír: she dances, she plays, she writes. Lotka si všimne, že u třetí osoby je přidané s, a připadá si, jako by právě chytila školní bod. Róza ukáže na slovo writes a pak na Lotku, jako by říkala: piš dál. Vedle pravidel je obálka s nápisem pro Lotku, ale je prázdná. Na dně obálky je jen jedna třpytka, takže taneční stopa. Víš, že v present simple se ve 3. osobě často přidává s nebo es, třeba she watches?",
       "choices": [
         {
           "text": "Sesbírat stránku s pády",
@@ -362,8 +362,8 @@
       "id": "scene_11_tanec",
       "level": 11,
       "type": "scene",
-      "title": "She dances!",
-      "text": "Na zrcadle je nalepený papírek: „I dance. She dances.“ a u toho nakreslené dvě nožky. Lotka to přečte a Róza okamžitě předvede „she dances“ jako drobný poskok. Stitch vypadá, že by rád tancoval taky, ale jen se točí na zipu. Pod papírkem je šipka k šatní skříňce a maličký otisk tlapky. Lotka se usměje: „Dobře, deník nám dává lekce a ještě dělá šipky. To je talent.“ Víš, že v anglickém present simple se ve 3. osobě často přidá -s, třeba „she dances“?",
+      "title": "Plakát lázní",
+      "text": "U vchodu do sálu je plakát Karlových Varů a na něm stoupá pára z horkého pramene. Lotka si říká, že její deník by teď potřeboval lázně, protože ho někdo vláčí všude. Róza se zachumlá do ocasu a tváří se, že už je v relax zóně. Pod plakátem někdo zapomněl sešit a v něm je vložená stránka z Lotčina deníku. Na stránce je volejbalová síť a vedle toho taneční kroky, takže obojí dohromady. Věděla jsi, že Karlovy Vary jsou známé lázeňské město s horkými prameny?",
       "choices": [
         {
           "text": "Sundat lístek She dances",
@@ -379,8 +379,8 @@
       "id": "scene_12_volejbal",
       "level": 12,
       "type": "scene",
-      "title": "Třpyt jako české sklo",
-      "text": "V šatně se na zemi třpytí drobné kousky, jako když se rozsype ozdoba. Lotka si vzpomene, že její deník má lesklou samolepku, co vypadá jako křišťál. Róza opatrně zvedne jeden třpytivý kousek a tváří se, že je to diamantový důkaz. Na lavičce je napsáno: „Sraz u dveří“ a malá kresba ocasu. Stitch se zhoupne a zní to skoro jako cinknutí, což je podezřele vtipné. Věděla jsi, že české sklo a křišťál (Bohemia) jsou známé po celém světě?",
+      "title": "Rozhodčí na zadních",
+      "text": "Lotka jde ke skříňce se sportovním náčiním a přistihne Rózu, jak se staví na zadní a dělá, že je vysoká rozhodčí. Lotka jí řekne, ať to nehraje na strašidlo, ale Róza jen pózuje a vypadá spíš vtipně než děsivě. Na poličce leží deníková gumička a na ní přilepený lístek: půjčeno do sálu. Lotka už má skoro jistotu, že deník si někdo vypůjčil kvůli tanci. Teď jen potřebuje jméno, ne jen šipky. Víš, že když se panda červená chce tvářit větší, postaví se na zadní nohy?",
       "choices": [
         {
           "text": "Hledat značku háčku IV",
@@ -396,8 +396,8 @@
       "id": "scene_12_tanec",
       "level": 12,
       "type": "scene",
-      "title": "Ocas jako deka",
-      "text": "Róza si sedne do kouta a omotá si ocas kolem těla, jako by byla malý teplý croissant. Lotka se rozesměje: „Tohle bych chtěla umět v zimě taky.“ Na lavici vedle nich leží schovaný růžek papíru s kresbou věšáku a číslem IV. Stitch se tváří, že IV je tajná mimozemská značka. Róza ukáže tlapkou na chodbu: „Číslo IV… to je hodně čtvrté. Jdeme to zkontrolovat.“ Věděla jsi, že huňatý pruhovaný ocas pandy červené je skoro tak dlouhý jako její tělo a slouží i jako deka?",
+      "title": "Tabule s don't",
+      "text": "V tanečním sále je na tabuli napsáno: we don't forget, she doesn't forget, a pod tím smajlík. Lotka si říká, že někdo si z angličtiny dělá stopy, což je zároveň chytré i trochu drzé. Róza ťukne tlapkou na doesn't a pak na prázdné místo, kde by měl být deník. Lotka najde na zemi malý papírek s podpisem Bára, tentokrát úplný. Takže viník možná není zlý, jen má zvláštní smysl pro humor. Věděla jsi, že v present simple se pro zápor používá don't a pro 3. osobu doesn't?",
       "choices": [
         {
           "text": "Prověřit číslo IV na papírku",
@@ -413,8 +413,8 @@
       "id": "scene_13_volejbal",
       "level": 13,
       "type": "scene",
-      "title": "Nákres hřiště",
-      "text": "Lotka najde nákres volejbalového hřiště a u něj poznámku „délka × šířka“ jako detektivní šifra. Róza na hřiště ukáže a řekne: „Tady se odehrál zločin zmizelého deníku!“ Lotka se směje: „Zločin? Spíš moje zapomnětlivost.“ V rohu nákresu je nakreslená taneční nota a šipka do sálu. Stitch se točí na zipu a vypadá, že potvrzuje: jdeme za hudbou. Víš, že obsah obdélníku spočítáš jako délka krát šířka?",
+      "title": "Obálka pro Báru",
+      "text": "Na chodbě je fotka skal v Kokořínsku a Lotka si řekne, že to vypadá jako obří přírodní hřiště. Róza na to kouká a tváří se, že by to celé vyšplhala, ale Lotka ji radši drží u země. Pod fotkou je schránka na vzkazy a v ní obálka s nápisem pro Báru. Uvnitř je lístek: mám deník, vrátím po taneční zkoušce. Lotka se rozhodne, že to vyřeší v klidu, bez velkého dramatu. Věděla jsi, že Kokořínsko je chráněná krajinná oblast plná pískovcových skal a převisů?",
       "choices": [
         {
           "text": "Prohlédnout nákres hřiště",
@@ -430,8 +430,8 @@
       "id": "scene_13_tanec",
       "level": 13,
       "type": "scene",
-      "title": "Krumlovský skicák",
-      "text": "V tanečním koutku leží papírek s kresbou věže a nápisem „Krumlov“, jako by to byl výlet v mini verzi. Lotka si vybaví, že do deníku ráda kreslí města, když má náladu na umění. Róza se postaví do pózy průvodkyně a udělá taneční krok „historie!“ Na zadní straně je napsáno: „Zeptej se u dveří“ a malá šipka k věšáku. Stitch vypadá, že by nejradši vedl výlet sám, ale jen se houpá. Věděla jsi, že Český Krumlov je zapsaný na seznamu UNESCO a vypadá jako město z pohádky?",
+      "title": "Pády, co tancují",
+      "text": "V taneční šatně je na zdi napsané sedm pádů a u každého malý taneční panáček. Lotka se směje, protože i gramatika může tancovat, když chce. Róza se snaží napodobit panáčka u sedmého pádu a skoro se překulí, což je trapas číslo tři. Pod nápisem je připnutý papírek: Bára, vrať deník, prosím. Lotka si říká, že už to ví celý svět, jen ne ona. Víš, že čeština má sedm pádů a proto se mění koncovky slov?",
       "choices": [
         {
           "text": "Zkontrolovat kresbu věže",
@@ -447,8 +447,8 @@
       "id": "scene_13_spojeni",
       "level": 13,
       "type": "scene",
-      "title": "Velké skládání důkazů",
-      "text": "Lotka s Rózou si sednou na lavičku a poskládají kousky papírků jako puzzle. Vypadá to skoro jako stránky deníku, jen bez hlavního nadpisu. Róza dramaticky zašeptá: „Teď přijde otázka.“ Lotka se zasměje: „Jasně, deník má rád otázky a šipky.“ Obě se shodnou, že další stopa vede k věšáku u dveří, protože tam se všechno sbíhá. Víš, že u otázek v anglickém present simple často pomáhají slova „Do“ a „Does“ na začátku věty?",
+      "title": "Máme jméno!",
+      "text": "Lotka a Róza se znovu potkají u lavičky a mají konečně jméno: Bára. Lotka si v hlavě projede otázky jako detektiv: kdo, kde, kdy a proč. Róza udělá dvě taneční otočky, jako by říkala: hlavně to neber moc vážně. Lotka si připomene, že v angličtině otázky často začínají Do nebo Does, a zní to jako buben. Teď si vybere, kudy půjde Báru najít. Víš, že otázky v present simple často začínají Do nebo Does?",
       "choices": [
         {
           "text": "Vyrazit k háčku IV",
@@ -464,8 +464,8 @@
       "id": "scene_14_volejbal",
       "level": 14,
       "type": "scene",
-      "title": "Červené maskování",
-      "text": "U dveří visí bunda s červeným flekem a Lotka na chvíli znejistí, jestli to není její deník převlečený za bundu. Róza se zasměje a schválně se přitiskne k červené části, aby ukázala, že splývá. Stitch se zamotá do šňůrky a vypadá jako malý detektivní uzel. Na háčku číslo IV visí prázdný kroužek a vedle malý papírek „zpátky do sálu“. Lotka kývne: „Tak jdeme, deníku, už se nepředváděj.“ Věděla jsi, že červená srst pandy červené v lese splývá s červeným mechem a bílými lišejníky na stromech?",
+      "title": "Roh v kapse",
+      "text": "Lotka čeká u volejbalové sítě a dělá, že kontroluje míče, ale ve skutečnosti kouká, kdo jde kolem. Róza si sedne a omotá si ocas kolem břicha, jako by byla nejroztomilejší šála světa. Přijde Bára a tváří se úplně normálně, což je podezřelé, protože normální lidi deníky neodnášejí. Lotka si všimne, že Báře z kapsy kouká roh sešitku s kresbou Stitche. Róza Lotce nenápadně kývne, jako že teď. Věděla jsi, že huňatý pruhovaný ocas pandy červené slouží jako deka i pro rovnováhu při šplhání?",
       "choices": [
         {
           "text": "Prohledat červenou bundu",
@@ -481,8 +481,8 @@
       "id": "scene_14_tanec",
       "level": 14,
       "type": "scene",
-      "title": "Čeština je ninja",
-      "text": "V sále visí plakát s nápisem „Čeština je ninja jazyk“ a Lotka se tomu směje. Róza přikývne: „Ninja, co umí i skloňovat.“ Pod plakátem je nalepená šipka k šatně a vedle napsáno „stužka“. Lotka si vzpomene na zelené nitě a začne je počítat jako detektivní korálky. Stitch se tváří, že je taky ninja, ale jen mu padá ouško. Věděla jsi, že čeština je považovaná za těžký jazyk hlavně kvůli gramatice a výslovnosti?",
+      "title": "Bára nacvičuje",
+      "text": "V tanečním sále Bára nacvičuje kroky a u toho listuje sešitem, který vypadá až moc povědomě. Lotka se schová za stojan s reproduktorem a říká si, že tohle je jak z komiksu. Róza zvedne ucho, jako by poslouchala tajný signál, a pak zamává tlapkou. Bára si něco zapisuje a u toho se culí, jako by ten deník byl její. Lotka si slíbí, že nebude křičet, jen použije poseroutkový humor. Víš, že Češi jsou velcí fanoušci sportu a lední hokej patří u nás k nejoblíbenějším?",
       "choices": [
         {
           "text": "Sledovat šipku ke stužce",
@@ -498,8 +498,8 @@
       "id": "scene_15_volejbal",
       "level": 15,
       "type": "scene",
-      "title": "Loutková nápověda",
-      "text": "Na chodbě visí plakát na loutkové divadlo a někdo dokreslil pandu červenou s lupou. Lotka se rozesměje: „Tohle je přesně můj humor… kdo to kreslil?“ Róza udělá loutkový pohyb tlapkou, jako by měla nitky, a pak přidá taneční krok. Pod plakátem je přilepený růžek deníku s nápisem „Háček IV potvrzen“. Lotka už skoro ví, že deník není ztracený, jen se schovává jako poseroutka. Věděla jsi, že loutkářství má u nás tradici už od 18. století a loutková divadla jsou pořád populární?",
+      "title": "Kde to je?",
+      "text": "Lotka se k Báře přiblíží a zeptá se, jestli náhodou neviděla sešit s černými deskami. Bára nejdřív řekne, že ne, a pak se jí ve tváři objeví výraz ups. Róza do toho vloží detektivní pohled a udělá tři taneční kroky, aby to nebylo trapné. Lotka si všimne, že na skříňkách jsou zámky a všechny klíče mají svoje místo. V duchu si řekne, že bezpečné věci jsou fajn, ale nejvíc je stejně důležitá důvěra. Víš, že Česko bývá často hodnocené jako jedna z bezpečnějších zemí díky nízké kriminalitě?",
       "choices": [
         {
           "text": "Mrknout na loutkový plakát",
@@ -515,8 +515,8 @@
       "id": "scene_15_tanec",
       "level": 15,
       "type": "scene",
-      "title": "Římská poznámka na podlaze",
-      "text": "Na podlaze u zrcadel je napsáno „X“ a vedle „V“ jako tajné značky. Lotka si uvědomí, že to vypadá jako její deníkové čmáranice, když se nudí. Róza ukáže na „X“ a řekne: „To je křížek pro poklad!“ Vedle značek je šipka k věšáku a malý obrázek Stitchovy tlapky. Lotka se zasměje: „Stitch tlapku nemá… takže to kreslil někdo hodně kreativní.“ Víš, že svůj věk můžeš zapsat římskými číslicemi, třeba X je 10 a V je 5?",
+      "title": "Poseroutkový plán",
+      "text": "Lotka si sedne na zem a dělá, že si váže tkaničku, aby mohla poslouchat, co Bára říká kamarádkám. Bára se chvástá, že má super deník plný trapasů, a Lotka má chuť zalézt do zrcadla. Róza se však jen culí, jako by říkala: aspoň jsi vtipná, to je výhra. Kousek dál visí plakát se sportovkyní a Lotku napadne, že Češi umí být dobří v různých sportech. Lotka se rozhodne, že si deník vezme zpátky po dobrém a v duchu si říká: klid, Příběh poseroutky by z toho udělal komiks. Věděla jsi, že české tenistky mívají velké úspěchy na světových turnajích?",
       "choices": [
         {
           "text": "Projít značky X a V",
@@ -532,8 +532,8 @@
       "id": "scene_16_volejbal",
       "level": 16,
       "type": "scene",
-      "title": "Póza „jsem větší“",
-      "text": "Róza se najednou postaví na zadní, aby vypadala jako obří detektiv. Lotka zatleská: „To je super! Ale na deník to nezabere, ten je papírový.“ U háčku IV je teď přivázaná zelená mašle a v ní zastrčená kartička „open“. Stitch se zhoupne a mašle se zavlní jako taneční stuha. Lotka se nadechne: „Dobře, máme OPEN… tak co vlastně máme otevřít?“ Věděla jsi, že když se panda červená cítí ohrožená, postaví se na zadní, aby vypadala větší?",
+      "title": "Deník na lavici",
+      "text": "Bára odběhne a Lotka ji sleduje, ale jen tak pomalu, aby to nevypadalo jako honička. Róza se přitiskne k zemi a tváří se, že se maskuje, i když je červená jako jahoda. V šatně na lavici leží Lotčin deník, skoro schovaný pod mikinou. Vedle je přilepená nálepka, což je pro deník skoro urážka, ale dá se to přežít. Lotka si řekne, že deník zachrání a pak udělá vítězný taneček. Víš, že červená srst pandy červené v lese splývá s červeným mechem a lišejníky a je to přírodní maskování?",
       "choices": [
         {
           "text": "Vytáhnout kartičku OPEN",
@@ -549,8 +549,8 @@
       "id": "scene_16_tanec",
       "level": 16,
       "type": "scene",
-      "title": "OPEN na kartičce",
-      "text": "Lotka vytáhne z mašle kartičku a je na ní napsáno velké „OPEN“. Róza se tváří, že to říká už celou dobu, jen ji nikdo neposlouchal. Stitch vypadá, že slovo OPEN zní jako „otevři komiksy“, a je z toho nadšený. Na zadní straně kartičky je nakreslený deník schovaný v něčem huňatém. Lotka se podívá na Rózin huňatý ocas a zvedne obočí tak vysoko, jak to jen jde. Víš, že anglicky „open“ znamená „otevřít“ nebo „otevřený“ podle věty?",
+      "title": "Dělat vs udělat",
+      "text": "V hlavě si Lotka přehrává dvě verze: Bára deník vzala a Bára deník vrátí. Róza jí připomene, že v češtině je rozdíl mezi dělat a udělat, a Lotka se tomu zasměje. Protože Bára deník brala, ale teď ho musí vrátit. Lotka se nadechne a připraví si větu, co nebude ani protivná, ani ubrečená. Stitch se zhoupne na zipu a vypadá, že fandí verzi: udělat to s humorem. Věděla jsi, že čeština rozlišuje dokonavost a nedokonavost, třeba dělat a udělat?",
       "choices": [
         {
           "text": "Otočit kartičku a číst dál",
@@ -566,8 +566,8 @@
       "id": "scene_17_volejbal",
       "level": 17,
       "type": "scene",
-      "title": "Pohlednice z lázní",
-      "text": "V krabici ztrát a nálezů najde Lotka pohlednici z Karlových Varů, jako by tam někdo poslal pozdrav deníku. Róza přičichne k pohlednici a tváří se, že cítí horký pramen. Na zadní straně je napsáno: „Deník odpočívá.“ Lotka se směje: „Tak to je přesně poseroutka. Odpočívá, když ho potřebuju.“ Stitch se houpe a dělá, že taky odpočívá, i když se vlastně jen točí. Věděla jsi, že Karlovy Vary jsou slavné české lázeňské město s horkými prameny?",
+      "title": "Nejsem zloděj",
+      "text": "Lotka najde na deníku lístek s anglickým zápor em: I am not a thief. To ji skoro rozesměje, protože to je přesně typ obrany, co si člověk napíše, když se cítí trošku vinný. Róza si k lístku přičichne a pak ho jemně odstrčí, jako by říkala: dobrý pokus. Lotka otevře deník a vidí, že několik stránek je založených, ale nic není zničené. Takže to spíš vypadá na půjčení, ne na krádež. Víš, že zápor slovesa to be může být třeba I am not nebo You are not?",
       "choices": [
         {
           "text": "Prohlédnout pohlednici z lázní",
@@ -583,8 +583,8 @@
       "id": "scene_17_tanec",
       "level": 17,
       "type": "scene",
-      "title": "Bambusová svačina",
-      "text": "Róza najde v sálu schovaný sáček s bambusovými lístky a tváří se, že je to důkaz i svačina zároveň. Lotka ji pobídne: „Nejez důkazy, inspektorko.“ Róza ukáže na sáček a pak na svůj ocas, jako by říkala: deník je blízko. Na zemi je ještě jedna šipka z třpytky, která vede k lavičce. Stitch vypadá, že by třpytku nejradši použil jako dekoraci na hlavu. Věděla jsi, že jedna panda červená dokáže za den sníst až 20 000 lístků bambusu a vybírá si hlavně špičky?",
+      "title": "Bambusový shuffle",
+      "text": "V tanečním koutku Lotka najde obal od bambusových tyčinek a Róza zpozorní, protože to je její oblast. Róza si sedne a tváří se, že by zvládla sníst celý koš, ale Lotka ji radši odvede. Mezi obaly je i papírek s kresbou bambusu a čárkami, jako by si někdo dělal seznam. Lotka si říká, že některé věci jsou větší záhada než ztracený deník. A pak uvidí, že Bára do deníku připsala nový název tance: bambusový shuffle. Věděla jsi, že jedna panda červená dokáže za den sníst až kolem 20000 lístků bambusu?",
       "choices": [
         {
           "text": "Zastavit Rózu u bambusu",
@@ -600,8 +600,8 @@
       "id": "scene_18_volejbal",
       "level": 18,
       "type": "scene",
-      "title": "Devítkový rozpis",
-      "text": "Na tabuli je napsáno „9“ a vedle toho spousta malých výsledků, jako by někdo trénoval počítání. Lotka si vzpomene na svoje poznámky a skoro slyší, jak by to v deníku komentovala sarkasticky. Róza se zatočí dokola devětkrát… nebo aspoň tak tři a pak řekne, že zbytek byl v duchu. Pod tabulí visí poslední kousek stránky s kresbou huňatého ocasu. Lotka si už je skoro jistá: její deník je schovaný v něčem huňatém a podezřele roztomilém. Věděla jsi, že u násobků devíti jednociferným číslem často vyjde součet cifer výsledku 9, třeba 9×7=63 a 6+3=9?",
+      "title": "Kafka na chodbě",
+      "text": "Na chodbě visí plakát s Franzem Kafkou a Lotka si říká, že dneska prožívá vlastní proměnu: z klidu do paniky a zpět. Róza se tváří, že Kafka je její oblíbený trenér, protože má vážný obličej. Bára přiběhne a drží deník jako poklad, ale zároveň se tváří provinile. Lotka si v duchu napíše trapas číslo čtyři: moje tajné kresby někdo četl. Bára vysvětlí, že si chtěla jen opsat taneční část, aby Lotku překvapila. Věděla jsi, že spisovatel Franz Kafka se narodil v Praze?",
       "choices": [
         {
           "text": "Najít poslední růžek stránky",
@@ -617,8 +617,8 @@
       "id": "scene_18_tanec",
       "level": 18,
       "type": "scene",
-      "title": "Tancovat vs zatancovat",
-      "text": "Lotka najde papírek, kde je napsáno „tancovat“ a pod tím „zatancovat“ s vykřičníkem. Róza na to kývne a udělá jeden krátký krok, jako by předváděla rozdíl. Stitch se zhoupne a vypadá, že taky „zatancoval“, i když jen spadl o centimetr níž. Vedle papírku je poslední šipka, která vede na místo, kde se vždycky sedí po tréninku. Lotka se usměje: „Tak jo, jdeme na finále. A tentokrát bez schovávání.“ Víš, že čeština rozlišuje dokonavost a nedokonavost, třeba „tancovat“ a „zatancovat“?",
+      "title": "Omluva na lístku",
+      "text": "Bára ukáže na deník a řekne, že ho nepoužila na nic zlého, jen na choreografii. Lotka si všimne, že v deníku jsou přilepené dva lístečky: haven't got time a sorry. Róza nad tím kývne, protože omluva je nejlepší krok v každém tanci i vyšetřování. Lotka si lístek přečte nahlas a zní to docela dospěle, což ji samotnou překvapí. Bára slíbí, že příště se vždycky nejdřív zeptá. Víš, že záporný tvar have got může být haven't got nebo hasn't got?",
       "choices": [
         {
           "text": "Dojít na místo po tréninku",
@@ -634,15 +634,15 @@
       "id": "scene_19_volejbal",
       "level": 19,
       "type": "scene",
-      "title": "Šedý chloupek",
-      "text": "Na lavičce najde Lotka maličký šedý chloupek a hned jí to přijde podezřelé. Róza se zatváří dotčeně: „To není z mého ocasu, ten je dokonalý.“ Stitch se tváří, že chloupek je vous mimozemšťana, a začne se točit smíchy. Vedle leží obálka s poslední stránkou deníku a nápisem „Otevři huňaté.“ Lotka se pomalu otočí na Rózu a usměje se tím nejdetektivnějším úsměvem. Věděla jsi, že mláďata pandy červené se rodí šedá a svou červenou barvu získají až kolem třetího měsíce?",
+      "title": "Šedá panda v deníku",
+      "text": "Lotka otevře deník na stránce, kde je kresba šedé pandy červené a velká šipka: později zčervenám. Bára se směje, že tu kresbu přidala ona, protože se jí líbila. Róza se tváří důležitě, jako by právě potvrzovala pravost kresby. Lotka už cítí, že z toho nebude hádka, spíš společné smíchy. Teď stačí udělat poslední krok a domluvit pravidla pro půjčování. Věděla jsi, že mláďata pandy červené se rodí šedá a zčervenají až asi po třech měsících?",
       "choices": [
         {
-          "text": "Požádat Rózu o ocas",
+          "text": "Zeptat se Báry narovinu",
           "nextId": "scene_20_end"
         },
         {
-          "text": "Otevřít nápis „huňaté“",
+          "text": "Požádat o vrácení deníku",
           "nextId": "scene_20_end"
         }
       ]
@@ -651,15 +651,15 @@
       "id": "scene_19_tanec",
       "level": 19,
       "type": "scene",
-      "title": "Kokořínsko na stránce",
-      "text": "Lotka najde stránku s kresbou skal a nápisem „Kokořínsko“, jako by deník chtěl na výlet. Róza udělá krok „skála-skluz“ a skoro z toho vznikne nový taneční styl. Stitch vypadá, že by chtěl lézt po skalách, ale naštěstí je jen klíčenka. Na okraji stránky je napsáno: „Finální porada u stolku.“ Lotka přikývne: „Dobře. Teď už to dořešíme jako dospělé… skoro.“ Věděla jsi, že Kokořínsko je známé pískovcovými skalami, převisy a lesními cestami?",
+      "title": "Nejdelší slovo",
+      "text": "Bára do deníku připsala jedno ultra dlouhé slovo jen proto, aby se Lotka zakuckala smíchem. Lotka ho zkusí přečíst a skončí u toho, že se směje ještě víc než při tanci. Róza zatleská tlapkami, protože tohle je nejhezčí konec vyšetřování: smích místo dramatu. Bára přizná, že deník četla, protože je to vtipnější než půlka školních vtipů. Lotka si řekne, že se možná nemusí stydět za svůj poseroutkový styl a klidně by to přečetla i fanouškům Příběhu poseroutky. Věděla jsi, že mezi dlouhá česká slova patří třeba nejneobhospodařovávatelnějšími?",
       "choices": [
         {
-          "text": "Zahrát detektivní překvapení",
+          "text": "Udělat smířlivý vtip",
           "nextId": "scene_20_end"
         },
         {
-          "text": "Říct „ukaž deník“",
+          "text": "Poprosit o deník zpět",
           "nextId": "scene_20_end"
         }
       ]
@@ -668,11 +668,11 @@
       "id": "scene_19_spojeni",
       "level": 19,
       "type": "scene",
-      "title": "Finální plán s mincemi",
-      "text": "U stolku Lotka najde dvě mince a vedle nich maličký papírek „3 Kč = stopa“. Róza si dá ruce v bok a řekne: „To je přesně deníkový humor.“ Stitch se zhoupne a jako by říkal: „Já jsem za peníze taky vtipný!“ Lotka už se nesnaží hádat, jen se usmívá: deník je určitě někde u Rózy. Róza si pevně omotá ocas kolem pasu, jako by byl trezor. Věděla jsi, že hádanka „mám dvě mince za 3 Kč, jedna není koruna“ má řešení 2 Kč a 1 Kč?",
+      "title": "Pravidlo půjčování",
+      "text": "Lotka, Róza a Bára si dají mini detektivní poradu a domluví pravidlo číslo jedna: nic si nebrat bez zeptání. Bára vytáhne samolepku pivoňky a nalepí ji na stránku s tanečním plánem, protože prý to vypadá roztomile. Lotka se zasměje a řekne, že z toho udělají novou kapitolu: půjčeno a vráceno. Róza k tomu přidá vítězný taneční krok a Stitch se u toho houpe jako maskot. Teď už zbývá jen vrátit deník do batohu a jít na trénink. Víš, že slovo pivoňka se tak jmenuje podle barvy, ne proto, že by to bylo pivo?",
       "choices": [
         {
-          "text": "Nastavit ocasu past",
+          "text": "Vymyslet domluvu",
           "nextId": "scene_20_end"
         },
         {
@@ -685,8 +685,8 @@
       "id": "scene_20_end",
       "level": 20,
       "type": "end",
-      "title": "Odhalení v huňatém ocasu",
-      "text": "Lotka se zhluboka nadechne: „Rózo… ukaž ocas.“ Róza udělá dramatickou detektivní pózu, pak se rozesměje a ocas pomalu rozmotá. Z huňatého ocasu vyklouzne Lotčin sportovní deník, úplně v pořádku a dokonce s novou samolepkou Stitch. Lotka vyprskne smíchy: „Ty jsi ho měla celou dobu!“ Róza přizná: „Chtěla jsem tě jen vyzkoušet… a taky aby sis ten deník zase ráda přečetla nahlas, protože je fakt boží.“ Věděla jsi, že bílé skvrny na tváři mámy pandy červené pomáhají mláďatům ji snadno poznat a držet se u ní?",
+      "title": "Deník zachráněn",
+      "text": "Lotka konečně strčí deník zpátky do batohu, jako by to byl poklad. Bára se omluví a přidá do deníku samolepku Stitche s nápisem friend. Lotka otevře poslední stránku a přečte nahlas krátkou větu, která je překvapivě milá. Róza udělá vítězný taneček a pak se stočí do klubíčka, protože detektivky potřebují pauzu. Lotka si v hlavě napíše: dnešní trapas se změnil na dnešní příběh. Věděla jsi, že bílé skvrny na tváři pandí mámy mohou mláďatům pomáhat ji snadno rozpoznat v lese?",
       "choices": []
     }
   }
